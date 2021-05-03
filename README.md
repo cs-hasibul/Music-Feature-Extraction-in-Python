@@ -1,1 +1,2 @@
 # Music-Feature-Extraction-in-Python
+Extraction of features is a very important part in analyzing and finding relations between different things. The data provided of audio cannot be understood by the models    directly to convert them into an understandable format feature extraction is used. It is a process that explains most of the data but in an understandable way. Feature extraction is required for classification, prediction and recommendation algorithms.
